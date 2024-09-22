@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Suhani Bhosale</h1>
+
 <h3 align="center">I am currently computer science student from india</h3>
+
+<img align = "right" alt="Coding" width = "500"  src ="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanibhosale375&label=Profile%20views&color=0e75b6&style=flat" alt="suhanibhosale375" /> </p>
 
