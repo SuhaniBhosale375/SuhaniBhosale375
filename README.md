@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Suhani Bhosale</h1>
+<h1 align="center">Hi 👋, I'm Suhani</h1>
 
 <h3 align="center">I am currently computer science student from india</h3>
 
