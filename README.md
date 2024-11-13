@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhani Bhosale</h1>
+<h1 align="center">Hello 👋, I'm Suhani Bhosale</h1>
 <h3 align="center">I am currently computer science student from india</h3>
 
 <img align = "right" alt="Coding" width = "500"  src ="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
